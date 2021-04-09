@@ -1,0 +1,8 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=tes
+Path=/home/wede/Desktop/car
+Exec=python /home/wede/Desktop/car/tes.py
+Terminal=true
+Type=Application
+Name[en_US]=tes

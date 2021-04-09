@@ -1,0 +1,9 @@
+
+[Desktop Entry]
+Encoding=UTF-8
+Name=live
+Path=/home/wede/Desktop/rmss
+Exec=python /home/wede/Desktop/rmss/rmslive.py
+Terminal=true
+Type=Application
+Name[en_US]=live

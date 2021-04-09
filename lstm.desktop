@@ -1,0 +1,8 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=lstm
+Path=/home/wede/Desktop/rmss
+Exec=python /home/wede/Desktop/rmss/lstm.py
+Terminal=true
+Type=Application
+Name[en_US]=lstm.desktop

@@ -1,0 +1,8 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=cnn
+Path=/home/wede/Desktop/rmss
+Exec=python /home/wede/Desktop/rmss/cnn.py
+Terminal=true
+Type=Application
+Name[en_US]=cnn
